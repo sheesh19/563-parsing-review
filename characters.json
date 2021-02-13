@@ -1,0 +1,15 @@
+{
+  "title": "Characters",
+  "characters": [
+    {
+      "name": "Harry",
+      "type": "Wizard",
+      "origin": "London"
+    },
+    {
+      "name": "Frodo",
+      "type": "Hobbit",
+      "origin": "Shire"
+    }
+  ]
+}
